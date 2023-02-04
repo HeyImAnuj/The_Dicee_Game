@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(61, 72, 92);
+}
+
+.container {
+    width: 70%;
+    text-align: center;
+    margin:auto;
+
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    color: rgb(22, 206, 142);
+}
+
+h3 {
+    font-family: cursive;
+    color: rgb(22, 206, 142);
+    font-size: 2rem;
+}
+
+.dice1 {
+    text-align: center;
+    display: inline-block;
+    margin: 2%;
+}
+
+.dice2 {
+    text-align: center;
+    display: inline-block;
+    margin: 2%;
+}
+
+img {
+    width: 80%;
+  }
+
+footer {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 6%;
+}
